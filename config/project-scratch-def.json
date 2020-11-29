@@ -1,6 +1,7 @@
 {
   "orgName": "sudheer company",
   "edition": "Developer",
+  "hasSampleData": true,
   "features": [],
   "settings": {
     "lightningExperienceSettings": {
